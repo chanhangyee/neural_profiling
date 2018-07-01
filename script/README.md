@@ -1,7 +1,7 @@
 
 # Analysis pipeline
 
-_Refer to _`jmr.17.0019.pdf`_ for page numbers_
+_Refer to the preprint article for page numbers_
 
 ## Preprocessing
 
