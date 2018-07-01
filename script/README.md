@@ -1,7 +1,7 @@
 
 # Analysis pipeline
 
-_Refer to the original article for page numbers_
+_Refer to the preprint article for page numbers_
 
 ## Preprocessing
 
@@ -28,3 +28,4 @@ _Refer to the original article for page numbers_
 - `Analysis 1 (Robustness check).ipynb`
 - `Analysis 2 (Robustness check).ipynb`
 - `Analysis 3 (Robustness check).ipynb`
+- `Supplementary Analysis 10 - Brand prediction.ipynb`
