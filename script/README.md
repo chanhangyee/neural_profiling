@@ -10,7 +10,7 @@ _Refer to the preprint article for page numbers_
 
 ## Preparing neural context scores and neural profiles
 
-- Obtain contrast maps of each social context pair comparison (`p.14`): `spm\Create Picture Category Betas.py`
+- Obtain contrast maps of each social context pair comparison (`p.14`): `Create Picture Category Betas.py`
 - Obtain ROI mask based on contrast maps (`p.14`): `Preprocessing 1 - Create ROI masks.ipynb`
 - Extract raw voxel data using the mask (`p.14`): `Preprocessing 2 - Extract voxel data.ipynb`
 - Calculate neural context scores and neural profiles (`p.15-16`): `Preprocessing 3 - Calculate scores.ipynb`
